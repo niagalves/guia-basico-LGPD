@@ -11,6 +11,7 @@
 ### Introdução
 
 1. [O que é LGPD?](/introducao/o-que-e-lgpd.md)
+2. [Por que a LGPD é tão importante?](/introducao/por-que-a-lgpd-e-tao-importante.md)
 
 
 
