@@ -20,6 +20,10 @@
 3. [Como funciona o tratamento de dados?](/dados-pessoais/como-funciona-o-tratamento-de-dados.md)
 4. [O que são dados pessoais sensíveis?](/dados-pessoais/o-que-sao-dados-pessoais-sensiveis.md)
 
+### Dados anonimizados
+
+1. [O que são dados anonimizados?](/dados-anonimizados/o-que-sao-dados-anonimizados.md)
+
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
