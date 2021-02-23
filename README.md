@@ -6,8 +6,6 @@
   Guia básico sobre LGPD (Lei Geral de Proteção de Dados).
 </h2>
 
-## SUMÁRIO
-
 ### Introdução
 
 1. [O que é LGPD?](/introducao/o-que-e-lgpd.md)
@@ -64,6 +62,31 @@
 
 1. [Resumo.](/fiscalizacao-sancoes-e-penalidades/resumo.md)
 2. [Exemplo de penalidade.](/fiscalizacao-sancoes-e-penalidades/exemplo-de-penalidade.md)
+
+
+### Como contribuir com o projeto
+
+1. Realize um Fork do projeto.
+2. Crie uma branch com a nova feature.
+3. Realize o commit.
+4. Realize o Push no Branch.
+5. Abra um Pull Request.
+
+### Autor
+
+- Niag de Souza Alves - [Twitter](https://twitter.com/oniag_) - [LinkedIn](https://www.linkedin.com/in/niagsouza/)
+
+### Referências
+
+- [Quais são os direitos dos titulares de dados?](https://suporte.jusbrasil.com.br/hc/pt-br/articles/360051439171-Quais-s%C3%A3o-os-direitos-dos-titulares-de-dados-)
+- [LGPD: esclarecendo os papéis de controlador e operador.](https://www.tecmundo.com.br/seguranca/177606-lgpd-esclarecendo-papeis-controlador-operador.htm)
+- [Introdução à Lei Brasileira de Proteção de Dados Pessoais.](https://www.escolavirtual.gov.br/curso/153)
+- [LGPD - Parte I - Introdução.](https://dev.to/lfrigodesouza/lgpd-parte-i-introducao-1g2m)
+- [Tudo que você precisa saber sobre a LGPD!](https://www.youtube.com/watch?v=hu6XIc7QVnE)
+- [Node.js API - LGPD e JSON Web Token: Dicas para trabalhar com dados sensíveis de forma segura](https://www.youtube.com/watch?v=R3ZcbbPmw-c)
+- [Jusbrasil.](https://www.jusbrasil.com.br/busca?q=lgpd)
+- [Planalto.](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)
+- [Multas sobre a LGPD começam a valer dentro de 8 meses.](https://www.jornalcontabil.com.br/multas-sobre-a-lgpd-comecam-a-valer-dentro-de-8-meses/)
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
