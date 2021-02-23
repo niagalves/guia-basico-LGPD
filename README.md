@@ -11,6 +11,7 @@
 1. [O que é LGPD?](/introducao/o-que-e-lgpd.md)
 2. [Por que a LGPD é tão importante?](/introducao/por-que-a-lgpd-e-tao-importante.md)
 3. [O que é ANPD?](/introducao/o-que-e-anpd.md)
+4. [O que a lei considera como tratamento de dados?](/introducao/o-que-a-lei-considera-como-tratamento-de-dados.md)
 
 ### Dados pessoais
 
