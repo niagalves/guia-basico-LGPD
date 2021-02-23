@@ -10,6 +10,7 @@
 
 1. [O que é LGPD?](/introducao/o-que-e-lgpd.md)
 2. [Por que a LGPD é tão importante?](/introducao/por-que-a-lgpd-e-tao-importante.md)
+3. [O que é ANPD?](/introducao/o-que-e-anpd.md)
 
 ### Dados pessoais
 
@@ -26,11 +27,12 @@
 
 1. [O que são dados públicos?](/dados-publicos/o-que-sao-dados-publicos.md)
 
-### Controlador e Operador
+### Controlador, operador e encarregado
 
-1. [O que são controlador?](/controlador-operador/o-que-sao-controlador.md)
-2. [O que são operador?](/controlador-operador/o-que-sao-operador.md)
-3. [Diferença de operador e controlador.](/controlador-operador/diferenca.md)
+1. [O que são controlador?](/controlador-operador-encarregado/o-que-sao-controlador.md)
+2. [O que são operador?](/controlador-operador-encarregado/o-que-sao-operador.md)
+3. [O que são encarregado?](/controlador-operador-encarregado/o-que-sao-encarregado.md)
+4. [Diferença de operador e controlador.](/controlador-operador-encarregado/diferenca.md)
 
 ### Os 10 princípios da LGPD
 

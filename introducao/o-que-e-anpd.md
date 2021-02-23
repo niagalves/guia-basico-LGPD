@@ -1,0 +1,3 @@
+# O que é ANPD (Autoridade Nacional de Proteção de Dados)
+
+A Autoridade Nacional de Proteção de Dados (**ANPD**) é um órgão da administração pública direta federal do Brasil que faz parte da Presidência da República e possui atribuições relacionadas a proteção de dados pessoais e da privacidade e, sobretudo, deve realizar a fiscalização do cumprimento da Lei nº 13.709/2018, conhecida como Lei Geral de Proteção de Dados Pessoais (**LGPD**).
