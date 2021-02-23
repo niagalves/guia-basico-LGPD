@@ -71,7 +71,7 @@
 1. Realize um Fork do projeto.
 2. Crie uma branch com a nova feature.
 3. Realize o commit.
-4. Realize o Push no Branch.
+4. Realize o Push na Branch.
 5. Abra um Pull Request.
 
 ### Autor
