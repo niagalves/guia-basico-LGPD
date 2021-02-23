@@ -1,3 +1,3 @@
 # Não discriminação
 
-Não utilizar as informações das pessoas para discriminá-las.
+Os dados pessoais jamais podem ser usados para discriminar ou promover abusos contra os seus titulares.

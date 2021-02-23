@@ -1,3 +1,3 @@
 # Responsabilidade e prestação de contas
 
-Nos responsabilizarmos pelo que fazemos e poder mostrar que usamos os dados pessoais do jeito certo.
+As empresas se responsabilizar pelo que fazem com os dados e poder mostrar para que estão utilizando aqueles dados de forma transparente.
