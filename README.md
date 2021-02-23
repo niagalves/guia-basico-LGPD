@@ -89,6 +89,7 @@
 - [Jusbrasil.](https://www.jusbrasil.com.br/busca?q=lgpd)
 - [Planalto.](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)
 - [Multas sobre a LGPD começam a valer dentro de 8 meses.](https://www.jornalcontabil.com.br/multas-sobre-a-lgpd-comecam-a-valer-dentro-de-8-meses/)
+- [10 princípios da LGPD para o tratamento de dados pessoais](https://ndmadvogados.jusbrasil.com.br/artigos/698194397/10-principios-da-lgpd-para-o-tratamento-de-dados-pessoais)
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">

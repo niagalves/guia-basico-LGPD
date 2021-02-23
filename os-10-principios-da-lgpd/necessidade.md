@@ -1,3 +1,3 @@
 # Necessidade
 
-Limitar e utilizar o mínimo de dados necessários.
+As empresas deven limitar e utilizar apenas os dados de dados necessários.

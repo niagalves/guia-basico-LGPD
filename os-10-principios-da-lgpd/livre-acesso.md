@@ -1,3 +1,3 @@
 # Livre acesso
 
-Deixar que cada pessoa tenha acesso as suas próprias informações.
+A pessoa física titular dos dados tem o direito de consultar, de forma simples e gratuita, todos os dados que a empresa detenha a seu respeito.
