@@ -60,6 +60,11 @@
 7. [Revogação do consentimento.](/direitos-dos-titulares-de-dados/revogacao.md)
 8. [Revisão às decisões automatizadas.](/direitos-dos-titulares-de-dados/revisao-as-decisoes-automatizadas.md)
 
+### Fiscalização, sanções e penalidades
+
+1. [Resumo.](/fiscalizacao-sancoes-e-penalidades/resumo.md)
+2. [Exemplo de penalidade.](/fiscalizacao-sancoes-e-penalidades/exemplo-de-penalidade.md)
+
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
