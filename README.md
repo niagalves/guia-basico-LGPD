@@ -28,6 +28,12 @@
 
 1. [O que são dados públicos?](/dados-publicos/o-que-sao-dados-publicos.md)
 
+### Controlador e Operador
+
+1. [O que são controlador?](/controlador-e-operador/o-que-sao-controlador.md)
+2. [O que são operador?](/controlador-e-operador/o-que-sao-operador.md)
+3. [Diferença de operador e controlador](/controlador-e-operador/diferenca.md)
+
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
