@@ -1,0 +1,10 @@
+# Segurança de dados pessoais, governança e boas práticas
+
+A **LGPD** apresenta a segurança, prevenção e a adoção de medidas para o estabelecimento de boas práticas e governança no tratamento de dados pessoais como pilares, sendo relevante observar que a Autoridade Nacional de Proteção de Dados poderá dispor sobre os padrões técnicos mínimos para tornar aplicável os padrões de segurança e governança, em especial para o tratamento de dados pessoais sensíveis.
+
+**Segurança (art. 46)**: as empresas devem adotar medidas de segurança, técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou qualquer forma de tratamento inadequado ou ilícito.
+
+**Boas práticas e Governança (art. 50)**: as empresas poderão formular regras de boas práticas e de governança que estabeleçam as condições de organização, o regime de funcionamento, os procedimentos, incluindo reclamações e petições de titulares, as normas de segurança, os padrões técnicos, as obrigações específicas para os diversos envolvidos no tratamento, as ações educativas, os mecanismos internos de supervisão e de mitigação de riscos e outros aspectos relacionados ao tratamento de dados pessoais.
+
+**Encarregado ou Data Protection Officer**: pessoal natural indicada pelo controlador, será o responsável dentro da empresa por zelar pelo cumprimento das regras previstas na lei e orientar os funcionários e os contratados da instituição a respeito das práticas a serem tomadas em relação à proteção de dados pessoais. Assim, dentre as funções do Encarregado, destacamos: (i) recepcionar e atender demandas dos titulares de dados; (ii) interagir com a Autoridade Nacional de Proteção de Dados e (iii) orientar funcionários e contratados quanto a práticas de proteção de dados. O Encarregado se reporta diretamente ao mais alto nível de direção, deve ser dotado de autonomia e estabilidade, independência orçamentária e se mostra obrigatório para empresas que tratam dados pessoais como controladoras.
+
