@@ -6,14 +6,17 @@
   Guia básico sobre LGPD (Lei Geral de Proteção de Dados).
 </h2>
 
-## ROADMAP
+## SUMÁRIO
 
 ### Introdução
 
 1. [O que é LGPD?](/introducao/o-que-e-lgpd.md)
 2. [Por que a LGPD é tão importante?](/introducao/por-que-a-lgpd-e-tao-importante.md)
-3. [Como funciona o tratamento de dados?](/introducao/como-funciona-o-tratamento-de-dados.md)
 
+### Dados pessoais
+
+1. [O que são dados pessoais?](/dados-pessoais/o-que-sao-dados-pessoais.md)
+2. [Como funciona o tratamento de dados?](/dados-pessoais/como-funciona-o-tratamento-de-dados.md)
 
 
 <p align="center">
