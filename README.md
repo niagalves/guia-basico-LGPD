@@ -2,11 +2,9 @@
   <img src="img/cover.png" alt="LGPD Logo" width="450" />
 </p>
 
-<h3 align="center">
-  <b>
-    Guia básico sobre LGPD (Lei Geral de Proteção de Dados).
-  </b>
-</h3>
+<p align="center">
+  Guia básico sobre a LGPD (Lei Geral de Proteção de Dados). Lei 13.709/2018 que entrou em vigor no Brasil dia 18/09/2020.
+</p>
 
 ### Introdução
 
