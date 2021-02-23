@@ -24,6 +24,10 @@
 
 1. [O que são dados anonimizados?](/dados-anonimizados/o-que-sao-dados-anonimizados.md)
 
+### Dados públicos
+
+1. [O que são dados públicos?](/dados-publicos/o-que-sao-dados-publicos.md)
+
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
