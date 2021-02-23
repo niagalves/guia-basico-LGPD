@@ -65,8 +65,8 @@
 
 1. [Resumo.](/fiscalizacao-sancoes-e-penalidades/resumo.md)
 2. [Exemplo de penalidade.](/fiscalizacao-sancoes-e-penalidades/exemplo-de-penalidade.md)
-3. [Segurança de dados pessoais, governança e boas práticas](/fiscalizacao-sancoes-e-penalidades/seguranca-de-dados-pessoais-governanca-e-boas-praticas.md)
-
+3. [Âmbito de aplicação](/fiscalizacao-sancoes-e-penalidades/ambito-de-aplicacao.md)
+4. [Segurança de dados pessoais, governança e boas práticas.](/fiscalizacao-sancoes-e-penalidades/seguranca-de-dados-pessoais-governanca-e-boas-praticas.md)
 
 ### Como contribuir com o projeto
 
