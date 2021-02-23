@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Guia básico sobre a LGPD (Lei Geral de Proteção de Dados). Lei 13.709/2018 que entrou em vigor no Brasil dia 18/09/2020.
+  Guia básico sobre a LGPD (Lei Geral de Proteção de Dados). <br /> Lei 13.709/2018 que entrou em vigor no Brasil dia 18/09/2020.
 </p>
 
 ### Introdução
@@ -28,9 +28,9 @@
 
 ### Controlador e Operador
 
-1. [O que são controlador?](/controlador-e-operador/o-que-sao-controlador.md)
-2. [O que são operador?](/controlador-e-operador/o-que-sao-operador.md)
-3. [Diferença de operador e controlador.](/controlador-e-operador/diferenca.md)
+1. [O que são controlador?](/controlador-operador/o-que-sao-controlador.md)
+2. [O que são operador?](/controlador-operador/o-que-sao-operador.md)
+3. [Diferença de operador e controlador.](/controlador-operador/diferenca.md)
 
 ### Os 10 princípios da LGPD
 
