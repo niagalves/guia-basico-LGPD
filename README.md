@@ -32,7 +32,21 @@
 
 1. [O que são controlador?](/controlador-e-operador/o-que-sao-controlador.md)
 2. [O que são operador?](/controlador-e-operador/o-que-sao-operador.md)
-3. [Diferença de operador e controlador](/controlador-e-operador/diferenca.md)
+3. [Diferença de operador e controlador.](/controlador-e-operador/diferenca.md)
+
+### Os 10 princípios da LGPD
+
+0. [Introdução](/os-10-principios-da-lgpd/introducao.md)
+1. [Finalidade](/os-10-principios-da-lgpd/finalidade.md)
+2. [Adequação](/os-10-principios-da-lgpd/adequacao.md)
+3. [Necessidade](/os-10-principios-da-lgpd/necessidade.md)
+4. [Livre acesso](/os-10-principios-da-lgpd/livre-acesso.md)
+5. [Qualidade dos dados](/os-10-principios-da-lgpd/qualidade-dos-dados.md)
+6. [Transparência](/os-10-principios-da-lgpd/transparencia.md)
+7. [Segurança](/os-10-principios-da-lgpd/seguranca.md)
+8. [Prevenção](/os-10-principios-da-lgpd/prevencao.md)
+9. [Não discriminação](/os-10-principios-da-lgpd/nao-discriminacao.md)
+10. [Responsabilidade e prestação de contas](/os-10-principios-da-lgpd/responsabilidade-e-prestacao-de-contas.md)
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
