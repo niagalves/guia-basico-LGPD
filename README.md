@@ -17,7 +17,7 @@
 
 1. [O que são dados pessoais?](/dados-pessoais/o-que-sao-dados-pessoais.md)
 2. [Como funciona o tratamento de dados?](/dados-pessoais/como-funciona-o-tratamento-de-dados.md)
-
+3. [Todos os dados são considerados pessoais?](/dados-pessoais/todos-os-dados-sao-considerados-pessoais.md)
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
