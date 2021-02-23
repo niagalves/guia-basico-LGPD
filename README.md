@@ -12,6 +12,7 @@
 
 1. [O que é LGPD?](/introducao/o-que-e-lgpd.md)
 2. [Por que a LGPD é tão importante?](/introducao/por-que-a-lgpd-e-tao-importante.md)
+3. [Como funciona o tratamento de dados?](/introducao/como-funciona-o-tratamento-de-dados.md)
 
 
 
