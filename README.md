@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="img/cover.jpg" alt="LGPD Logo" width="500" />
+  <img src="img/cover.png" alt="LGPD Logo" width="450" />
 </p>
 
-<h2 align="center">
-  Guia básico sobre LGPD (Lei Geral de Proteção de Dados).
-</h2>
+<h3 align="center">
+  <b>
+    Guia básico sobre LGPD (Lei Geral de Proteção de Dados).
+  </b>
+</h3>
 
 ### Introdução
 
