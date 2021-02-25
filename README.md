@@ -68,6 +68,12 @@
 3. [Âmbito de aplicação](/fiscalizacao-sancoes-e-penalidades/ambito-de-aplicacao.md)
 4. [Segurança de dados pessoais, governança e boas práticas.](/fiscalizacao-sancoes-e-penalidades/seguranca-de-dados-pessoais-governanca-e-boas-praticas.md)
 
+### LGPD X GDPR
+
+1. [O que é GDPR?](/gdpr/o-que-e-gdpr.md)
+2. [Quais as diferenças entre LGPD e GDPR?](/gdpr/diferencas-entre-lgpd-e-gdpr.md)
+3. [Quem deve se adequar à GDPR?](/gdpr/quem-deve-se-adequar-na-gdpr.md)
+
 ### Como contribuir com o projeto
 
 1. Realize um Fork do projeto.
@@ -92,6 +98,9 @@
 - [Planalto.](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)
 - [Multas sobre a LGPD começam a valer dentro de 8 meses.](https://www.jornalcontabil.com.br/multas-sobre-a-lgpd-comecam-a-valer-dentro-de-8-meses/)
 - [10 princípios da LGPD para o tratamento de dados pessoais](https://ndmadvogados.jusbrasil.com.br/artigos/698194397/10-principios-da-lgpd-para-o-tratamento-de-dados-pessoais)
+- [O que é GDPR e como você e sua empresa podem ser impactados?](https://conube.com.br/blog/o-que-e-gdpr/)
+- [LGPD vs. GDPR](https://www.onetrust.com/br/blog/lgpd-vs-gdpr/)
+- [Com a Lei em vigor, quais as diferenças entre a LGPD e GDPR?](https://www.compugraf.com.br/diferencas-entre-lgpd-e-gdpr/)
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
