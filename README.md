@@ -72,7 +72,7 @@
 
 1. [O que é GDPR?](/gdpr/o-que-e-gdpr.md)
 2. [Quais as diferenças entre LGPD e GDPR?](/gdpr/diferencas-entre-lgpd-e-gdpr.md)
-3. [Quem deve se adequar à GDPR?](/gdpr/quem-deve-se-adequar-na-gdpr.md)
+3. [Quem deve se adequar a GDPR?](/gdpr/quem-deve-se-adequar-na-gdpr.md)
 
 ### Como contribuir com o projeto
 
