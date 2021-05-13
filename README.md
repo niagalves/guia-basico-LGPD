@@ -84,7 +84,7 @@
 
 ### Autor
 
-- Niag de Souza Alves - [Twitter](https://twitter.com/oniag_) - [LinkedIn](https://www.linkedin.com/in/niagsouza/)
+- Niag de Souza Alves - [Twitter](https://twitter.com/niagalves) - [LinkedIn](https://www.linkedin.com/in/niagalves/)
 
 ### Referências
 
