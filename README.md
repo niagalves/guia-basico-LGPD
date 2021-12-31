@@ -74,6 +74,10 @@
 2. [Quais as diferenças entre LGPD e GDPR?](/gdpr/diferencas-entre-lgpd-e-gdpr.md)
 3. [Quem deve se adequar a GDPR?](/gdpr/quem-deve-se-adequar-na-gdpr.md)
 
+### Certificação
+
+1. [Fundamentos Na Lei Geral De Proteção De Dados LGPDF](https://certiprof.com/pages/fundamentos-na-lei-geral-de-protecao-de-dados-lgpdf-portuguese)
+
 ### Como contribuir com o projeto
 
 1. Realize um Fork do projeto.
