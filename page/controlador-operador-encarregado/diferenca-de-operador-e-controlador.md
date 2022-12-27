@@ -1,4 +1,4 @@
-# Diferença
+# Diferença de operador e controlador
 
 O controlador é aquele a quem competem as decisões referentes ao tratamento de dados pessoais, e o operador é aquele que realiza o tratamento dos dados em nome do controlador.
 
