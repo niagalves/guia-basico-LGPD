@@ -17,9 +17,8 @@ O projeto abrirá na porta **3000** e após isso é só acessar **localhost:3000
 
 1. Realize um fork do projeto.
 2. Crie uma branch com a nova feature.
-3. Realize o commit.
-4. Realize o push na branch.
-5. Abra um pull request.
+3. Realize o commit das informações.
+4. Abra um pull request.
 
 ## Contribuidores
 
