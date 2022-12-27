@@ -1,0 +1,15 @@
+# Referências
+
+- [Quais são os direitos dos titulares de dados?](https://suporte.jusbrasil.com.br/hc/pt-br/articles/360051439171-Quais-s%C3%A3o-os-direitos-dos-titulares-de-dados-)
+- [LGPD: esclarecendo os papéis de controlador e operador.](https://www.tecmundo.com.br/seguranca/177606-lgpd-esclarecendo-papeis-controlador-operador.htm)
+- [Introdução à Lei Brasileira de Proteção de Dados Pessoais.](https://www.escolavirtual.gov.br/curso/153)
+- [LGPD - Parte I - Introdução.](https://dev.to/lfrigodesouza/lgpd-parte-i-introducao-1g2m)
+- [Tudo que você precisa saber sobre a LGPD!](https://www.youtube.com/watch?v=hu6XIc7QVnE)
+- [Node.js API - LGPD e JSON Web Token: Dicas para trabalhar com dados sensíveis de forma segura](https://www.youtube.com/watch?v=R3ZcbbPmw-c)
+- [Jusbrasil.](https://www.jusbrasil.com.br/busca?q=lgpd)
+- [Planalto.](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)
+- [Multas sobre a LGPD começam a valer dentro de 8 meses.](https://www.jornalcontabil.com.br/multas-sobre-a-lgpd-comecam-a-valer-dentro-de-8-meses/)
+- [10 princípios da LGPD para o tratamento de dados pessoais](https://ndmadvogados.jusbrasil.com.br/artigos/698194397/10-principios-da-lgpd-para-o-tratamento-de-dados-pessoais)
+- [O que é GDPR e como você e sua empresa podem ser impactados?](https://conube.com.br/blog/o-que-e-gdpr/)
+- [LGPD vs. GDPR](https://www.onetrust.com/br/blog/lgpd-vs-gdpr/)
+- [Com a Lei em vigor, quais as diferenças entre a LGPD e GDPR?](https://www.compugraf.com.br/diferencas-entre-lgpd-e-gdpr/)

@@ -24,3 +24,9 @@ O projeto abrirá na porta **3000** e após isso é só acessar **localhost:3000
 ## Contribuidores
 
 - [Niag Alves](https://github.com/niagalves);
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>

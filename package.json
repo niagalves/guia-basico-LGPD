@@ -1,0 +1,23 @@
+{
+  "name": "guia-basico-lgpd",
+  "version": "1.0.0",
+  "description": "Um Guia básico sobre a LGPD (Lei Geral de Proteção de Dados). Lei 13.709/2018 que entrou em vigor no Brasil dia 18/09/2020.",
+  "scripts": {
+    "start": "docsify serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niagalves/guia-basico-LGPD.git"
+  },
+  "keywords": [
+    "LGPD",
+    "Lei Geral de Proteção de Dados",
+    "Guia básico LGPD"
+  ],
+  "author": "Niag Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niagalves/guia-basico-LGPD/issues"
+  },
+  "homepage": "https://github.com/niagalves/guia-basico-LGPD#readme"
+}

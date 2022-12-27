@@ -2,15 +2,3 @@
 h2 {
   border: none !important;
 }
-
-.sidebar-nav li > a[href^="/"]:not([href*="?id="]):only-child,
-.sidebar-nav li > a[href^="#/"]:not([href*="?id="]):only-child {
-  background: none;
-}
-
-.sidebar-nav li > a[href^="/"]:not([href*="?id="]),
-.sidebar-nav li > a[href^="/"]:not([href*="?id="]) ~ ul a,
-.sidebar-nav li > a[href^="#/"]:not([href*="?id="]),
-.sidebar-nav li > a[href^="#/"]:not([href*="?id="]) ~ ul a {
-  padding-left: 0;
-}
